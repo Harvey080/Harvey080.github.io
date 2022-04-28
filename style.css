@@ -1,0 +1,88 @@
+
+	.p2
+	{
+		margin-left: 40px;
+		font-family: verdana;
+		font-size:18px;
+	}
+
+	
+	.td1
+	{
+		border-style: hidden;
+
+
+	}
+
+
+	.P1
+	{
+		margin-left:200px;
+		margin-right: 280px;
+	}
+	
+	.table 
+	{
+       margin-left: 40px;
+       margin-top: 20px;
+     
+	}
+
+    .table2
+    {
+    	margin-left: 40px;
+    	margin-top:50px;
+   
+    	
+    }
+
+    .tblhover
+    {
+    	background-color: black;
+    	transition-delay: 0.5s;
+    }
+
+    .tblhover:hover
+    {
+       background-color: red;
+
+     
+    }
+
+    .p1
+    {
+    	margin-left:40px; 
+    	font-size:20px;
+    	font-family:Verdana;
+    	
+    }
+
+
+
+
+    .bgcolor
+    {
+    	background-color:  dimgray;
+    	background-image:linear-gradient( black,navajowhite, dimgray, antiquewhite, navajowhite, dimgray);
+    }
+
+    .image
+    {
+    	opacity: 0.0;
+    	transition-delay: 0.5s;
+    	transition-timing-function: ease-in-out;
+        border-radius: 50%;
+    }
+
+    .image:hover 
+    {
+    	opacity: 10;
+    }
+
+    .hr1
+    {
+    	background: linear-gradient( to right, black, whitesmoke, black);
+    	height: 5px;
+
+    }
+  
